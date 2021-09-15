@@ -116,4 +116,5 @@ Two common problems:
 And honestly, sometimes you just need to start over. Re-clone, move files around, pull and push. However, the simple fact that you can *re-download* a version of your project from the internet is very powerful! 
 
 ![Alt text](images/xkcd.png)
+
 Cartoon from [XKCD](https://xkcd.com/1597/).
