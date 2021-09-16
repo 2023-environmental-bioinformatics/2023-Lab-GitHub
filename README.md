@@ -98,10 +98,10 @@ What if we now wanted to share our changes that we made on our local repo with a
 
 We have all made some changes to our local repositories. Let's try pushing them to the remote. Generally, I find it is good practice to run `git pull` first just in case there have been any changes. This will help you avoid `conflicts`. 
 
-Run `git status`. You can see we are on our `master` branch. We will dive into branches in a later session-- but for right now you can think of `master` as the name of the local repo. By convention, the remote is typically called `origin`. So, to push our current commits to master we will type:
+Run `git status`. You can see we are on our `main` branch. We will dive into branches in a later session-- but for right now you can think of `main` as the name of the local repo. By convention, the remote is typically called `origin`. So, to push our current commits to `main` we will type:
 
 ```bash
-git push master origin 
+git push main origin 
 ``` 
 Go and take a look at your remote-- you should see that the file `temp` has been added to your online repository. You are now ready to go and work on the homework. Once you are done with the homework you will want to `commit` your changes and `push` them to the remote repository. 
 
