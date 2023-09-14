@@ -18,7 +18,7 @@ A few other points worth noting:
 - Git is not a good place to store data or data products (checkout Zenodo or OSF.io)
 
 #### Set up your Git on the HPC
-In a future class we will work through GitHub in much more detail. For today, we are just going to get through the basics of getting you set up on the HPC,  downloading the homework, and making commits. 
+We are always happy to walk through higher-level useage of GitHub in a future class. For today, we are just going to get through the basics of getting you set up on the HPC,  downloading the homework, and making commits. 
 
 First, we are going to share a public ssh key between your poseidon account and GitHub. To do this navigate to `~/.ssh/`. Get the contents of the file to print to screen by typing: 
 
