@@ -2,11 +2,11 @@
 
 ### Goals for today: 
 **Today we will:**
-1. Talk about papers and organizing scientific projects
 1. Get GitHub set up on the HPC and your local
 2. Get Homework 0 downloaded and setup through GitHub Classrooms
 3. Do some Git Practice
 4. Finish with some BASH
+1. Talk about papers and organizing scientific projects
 
 ### GitHub + Homework! 
 #### What is Git / GitHub?
