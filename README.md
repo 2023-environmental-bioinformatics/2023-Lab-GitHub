@@ -9,8 +9,7 @@
 4. Finish with some BASH
 
 ### GitHub + Homework! 
-#### What is Git / GitHub? 
-I can't explain Git much better than Software Carpentry so let's flip over to them for a minute. https://swcarpentry.github.io/git-novice/01-basics/index.html
+#### What is Git / GitHub?
 
 Main takeaway:  Git is a software that helps you version control your code. GitHub is a platform that integrates with git and helps you collaborate with others. 
 
