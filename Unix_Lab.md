@@ -427,7 +427,7 @@ sed -e 's/a/A/g' fortune5
 ```
 > Write a `sed` command to find and replace the letters `a` or `s` with `!`.
 
-####Finding files
+#### Finding files
 Sometimes, even with the best organization skills you forget where you put things. While `grep` searches a particular file-- `find` is used to search your file system. Go back to `unix-folders-master/`. 
 
 Try typing `find .`. This is going to to list all the files that exist at this level and below. But, of course, find is much more powerful than that. To find all the directories:
