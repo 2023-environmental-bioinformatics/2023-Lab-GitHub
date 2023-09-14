@@ -6,7 +6,7 @@
 1. Get GitHub set up on the HPC and your local
 2. Get Homework 0 downloaded and setup through GitHub Classrooms
 3. Do some Git Practice
-
+4. Finish with some BASH
 
 ### GitHub + Homework! 
 #### What is Git / GitHub? 
@@ -39,7 +39,7 @@ git config --global core.editor "nano -w"
 ```
 
 #### Accepting the homework
-Let's initiate your homework. Click this link: https://classroom.github.com/a/imLmG0bm. This link is going to take you to GitHub classroom and walk you through the creation of how to create a new repository (repo) that is specific to you. Here, you should be taken to a new repository called `homework0b-unix-username` within our group (`2021-environmental-bioinformatics`). Once you are there, click on the green `Clone or download` buttom at the top. This will lead to a drop down menu which provides the address for the repo.  If you are doing this on a local computer you want to use the `Clone with HTTPS` option. However, most of us are running it on an HPC. As such, you will want to click `Use SSH` to copy the address for the repo. 
+Let's initiate your homework. Click this link: https://classroom.github.com/a/48DJYTQV. This link is going to take you to GitHub classroom and walk you through the creation of how to create a new repository (repo) that is specific to you. Here, you should be taken to a new repository called `HW_assignment_0b` within our group (`2021-environmental-bioinformatics`). Once you are there, click on the green `Clone or download` buttom at the top. This will lead to a drop down menu which provides the address for the repo. There are several options-- we want to choose `SSH`.  
 
 ![Alt text](images/repo-example.png)
 
